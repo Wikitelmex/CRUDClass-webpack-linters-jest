@@ -32,7 +32,8 @@ To get a local copy up and running follow these simple example steps.
 - VSCode
 
 ### Setup
-
+- git clone https://github.com/Wikitelmex/CRUDClass-webpack-linters-jest
+  
 ### Install
 - `npm install`
 - `npm install --dev` (to install the dev dependencies, like webpack)
@@ -47,17 +48,11 @@ To get a local copy up and running follow these simple example steps.
 
 ## Authors
 
-👤 **Author1**
+👤 **Alex Castillo**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@githubhandle](https://github.com/Wikitelmex)
+- Twitter: [@twitterhandle](https://twitter.com/Alejand84515448)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/alejandro-castillo-6849131a9/)
 
 ## 🤝 Contributing
 
@@ -78,4 +73,3 @@ Give a ⭐️ if you like this project!
 ## 📝 License
 
 This project is [MIT](./MIT.md) licensed.
-
